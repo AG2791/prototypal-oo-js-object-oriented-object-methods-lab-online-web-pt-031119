@@ -17,7 +17,7 @@ BoardMember.prototype.doCharity = function() {
   return "I like to help people."
 }
 
-BoardMember.prototype.releasePressStatment() {
+BoardMember.prototype.releasePressStatment = function() {
   "You will see great things from Scuber"
   
 }
