@@ -4,7 +4,7 @@ function Boardmember(name, Homestate, training) {
   return 'No, I must disagree'
 }
   
-  BoardMemeber.prototype.approve = function() {}
+  BoardMember.Proto.vet
   
   
 }
